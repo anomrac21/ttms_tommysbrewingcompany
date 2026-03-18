@@ -1,51 +1,142 @@
-# Replace with real location(s). CPS or client fills address, city, island, phone, whatsapp, latlon, orderingtables, delivery, opening_hours.
 locations:
-  - address: "My Address"
+  - address: "Fiesta Plaza, Movie Towne"
     city: "Port of Spain"
     island: "Trinidad"
-    subcategories:
-      - Restaurant
-      - Bar
-    latlon: [10.525849712311333, -61.40296428581248]
-    phone: 1868
-    whatsapp: 1868
-    orderingtables: ["Takeway Only"]
+    latlon: [10.657843,-61532936044243680.000000]
+    phone: "18682286669"
+    whatsapp: "18682286669"
+    subcategories: []
+    orderingtables: []
     delivery:
-      fooddrop: "https://fooddropcaribbean.com/en/store/"
     opening_hours:
-      mode: Auto
+      mode: "Auto"
       sun:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       mon:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       tue:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       wed:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       thu:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       fri:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
       sat:
-        - type: Open
+        - type: "Open"
           time: "11:00"
-        - type: Close
+        - type: "Close"
           time: "22:00"
+
+  - address: "East Gates Mall"
+    city: "Trincity"
+    island: "Trinidad"
+    latlon: [10.633397,-6134677561025833.000000]
+    phone: "18682286669"
+    whatsapp: "18682286669"
+    subcategories: []
+    orderingtables: []
+    delivery:
+    opening_hours:
+      mode: "Auto"
+      sun:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      mon:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      tue:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      wed:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      thu:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      fri:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      sat:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+
+  - address: "Brentwood Mall, 501426, Brentwood Avenue North"
+    city: "Chaguanas"
+    island: "Trinidad"
+    latlon: [10.504648,-61406320663496344.000000]
+    phone: "18682286669"
+    whatsapp: "18682286669"
+    subcategories: []
+    orderingtables: []
+    delivery:
+    opening_hours:
+      mode: "Auto"
+      sun:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      mon:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      tue:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      wed:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      thu:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      fri:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      sat:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+
