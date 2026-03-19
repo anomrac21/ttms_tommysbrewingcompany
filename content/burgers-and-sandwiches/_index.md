@@ -1,5 +1,5 @@
 ---
-title: Burgers & Sandwiches
+title: Burgers and Sandwiches
 weight: 2
 icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 ---
