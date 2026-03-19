@@ -2,141 +2,151 @@ locations:
   - address: "Fiesta Plaza, Movie Towne"
     city: "Port of Spain"
     island: "Trinidad"
-    latlon: [10.657843,-61532936044243680.000000]
+    latlon: [10.65784327160846, -61.53293604424368]
     phone: "18682286669"
     whatsapp: "18682286669"
-    subcategories: []
-    orderingtables: []
-    delivery:
+    subcategories:
+      - Restaurant
+      - Bar
+    orderingtables:
+      - Takeaway Only
+      - Dine In
+    delivery: {}
     opening_hours:
       mode: "Auto"
       sun:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       mon:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       tue:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       wed:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       thu:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       fri:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       sat:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
 
   - address: "East Gates Mall"
     city: "Trincity"
     island: "Trinidad"
-    latlon: [10.633397,-6134677561025833.000000]
+    latlon: [10.633397, -61.346776]
     phone: "18682286669"
     whatsapp: "18682286669"
-    subcategories: []
-    orderingtables: []
-    delivery:
+    subcategories:
+      - Restaurant
+    orderingtables:
+      - Takeaway Only
+      - Dine In
+    delivery: {}
     opening_hours:
       mode: "Auto"
       sun:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       mon:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       tue:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       wed:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       thu:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       fri:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       sat:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
 
   - address: "Brentwood Mall, 501426, Brentwood Avenue North"
     city: "Chaguanas"
     island: "Trinidad"
-    latlon: [10.504648,-61406320663496344.000000]
+    latlon: [10.504647927225005, -61.406320663496344]
     phone: "18682286669"
     whatsapp: "18682286669"
-    subcategories: []
-    orderingtables: []
-    delivery:
+    subcategories:
+      - Restaurant
+    orderingtables:
+      - Takeaway Only
+      - Dine In
+    delivery: {}
     opening_hours:
       mode: "Auto"
       sun:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       mon:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       tue:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       wed:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       thu:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       fri:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
       sat:
         - type: "Open"
           time: "11:00"
         - type: "Close"
-          time: "22:00"
+          time: "23:00"
 

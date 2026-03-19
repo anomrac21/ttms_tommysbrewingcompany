@@ -1,12 +1,3 @@
-#orderModal .image {
-    max-height: initial !important;
-}
-#orderModal .image img {
-    max-height: initial !important;
-}
-.menu tr th {
-    font-size: large !important;
-}
 .singlepageimages img {
     height:initial !important;
 }

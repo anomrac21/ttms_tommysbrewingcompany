@@ -1,32 +1,56 @@
 :root {
-    --hero-bg-image-fg-color: #f4dec3;
-    --contact-info-bg: none;
-    --button-text-color2: #ffffff;
-    --main-bg-color: #f4dec3;
-    --menu-bg-color-1: #22273111;
-    --header-bordercolor-1: #dfeed4ff;
-    --modal-bg-container-color: #00000055;
-    --selected-button-color3: #fff;
-    --header-color: #000000ed;
-    --header-bg-color: #222731ee;
-    --selected-button-color4: #000000ee;
-    --button-color2: #000;
-    --header-bordercolor-2: #dfeed4ff;
-    --selected-text-color2: #fff;
+    /* Menu-inspired palette: cream background, burnt rust, golden-orange accent */
+
+    /* Header */
+    --header-color: #231f20ed;
+    --header-bg-color: #943e24ee;
     --header-icon-color: #fefefe;
-    --menu-bg-color-2: #00000055;
-    --button-color1: #222731;
-    --selected-button-color2: #200;
-    --footer-text-color: #000;
-    --hero-text-color: #000;
+    --header-text-color: #fefefe;
+    --header-text-shadow-color: #00000080;
+    --header-bordercolor-1: #e8a85d88;
+    --header-bordercolor-2: #e8a85d88;
     --header-bg-image: none;
-    --button-text-color3: #fff;
-    --selected-text-color3: #85181c;
-    --selected-button-color1: #200;
+
+    /* Hero – warm cream with rust accent */
+    --hero-bg-color: #fcf9f3;
+    --hero-bg-image-fg-color: #e8a85d;
+    --hero-text-color: #231f20;
+    --contact-info-bg: none;
+
+    /* Main – cream background, dark text */
+    --main-bg: #fcf9f3;
+    --main-bg-color: #fcf9f3;
+    --main-text-color: #231f20;
+
+    /* Menu – cream with rust dividers */
+    --menu-bg-color-1: #fdfbf7;
+    --menu-bg-color-2: #943e2455;
+    --menu-text-color: #231f20;
+
+    /* Buttons – rust primary */
+    --button-color1: #943e24;
+    --button-color2: #b14a2e;
     --button-text-color1: #fefefe;
-    --main-text-color: #ffffff;
-    --main-bg: #000;
-    --footer-bg-color: #fefefe;
-    --selected-text-color1: #fff;
-    --hero-bg-color: #000000;
+    --button-text-color2: #fefefe;
+    --button-text-color3: #fff;
+
+    /* Selected Button – golden-orange accent */
+    --selected-button-color1: #e8a85d;
+    --selected-button-color2: #db8a32;
+    --selected-button-color3: #fff;
+    --selected-button-color4: #943e24ee;
+    --selected-text-color1: #231f20;
+    --selected-text-color2: #fff;
+    --selected-text-color3: #b14a2e;
+
+    /* Footer */
+    --footer-bg-color: #fdfbf7;
+    --footer-text-color: #231f20;
+
+    /* Modal */
+    --modal-bg-container-color: #231f2055;
+
+    /* Icon accents (vegetarian, spicy) */
+    --icon-green: #3c8e44;
+    --icon-orange: #e88224;
 }

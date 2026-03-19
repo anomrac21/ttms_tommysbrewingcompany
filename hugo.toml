@@ -9,7 +9,7 @@ languageCode = 'en-tt'
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = 'Tommy's Brewing Company'
+title = "Tommy's Brewing Company"
 baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
 
 [markup]
@@ -58,6 +58,13 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
 
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
+    # For local development, use:
+    # apiUrl = "http://localhost:8084/api"
+
 # Notification Service Configuration
 [params.notifications]
     enabled = true
@@ -74,8 +81,8 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
     enabled = true
     orderingDisabledMessage = "Ordering is not available for this menu at this time."
-    vat = 0
-    servicecharge = 0
+    vat = 0.125
+    servicecharge = 0.1
     hastables = true
     usephonecall = false
     whatsapp = 18682286669
