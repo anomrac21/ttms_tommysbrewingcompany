@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Dark Ale
+  - Draft
+  - Craft
 ingredients:
   - Dark ale
 cookingmethods: []

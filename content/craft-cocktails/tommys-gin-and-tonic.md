@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Classic
   - Gin
+  - Tonic
+  - Citrus
 ingredients:
   - Gin
   - Tonic

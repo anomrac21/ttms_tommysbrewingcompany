@@ -10,6 +10,7 @@ prices:
 tags:
   - Wine
   - White
+  - Chardonnay
 ingredients:
   - Chardonnay
 cookingmethods: []

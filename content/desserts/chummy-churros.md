@@ -7,6 +7,8 @@ prices:
 tags:
   - Dessert
   - Vegetarian
+  - Fried
+  - Ice Cream
 ingredients:
   - Churros
   - Cinnamon
@@ -17,6 +19,8 @@ cookingmethods:
   - Fried
 types: []
 weight: 2
+images:
+    - image: images/churros.webp
 ---
 
 Fried churros, cinnamon, sugar, dulce de leche ice cream, chocolate sauce. Best chums with Devil's Woodyard.

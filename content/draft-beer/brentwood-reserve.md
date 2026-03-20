@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Pilsner
+  - Draft
+  - Craft
 ingredients:
   - Pilsner
   - New Zealand hops

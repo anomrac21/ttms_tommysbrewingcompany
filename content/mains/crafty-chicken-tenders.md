@@ -7,6 +7,8 @@ prices:
 tags:
   - Chicken
   - Main
+  - Fries
+  - Fried
 ingredients:
   - Chicken tenders
   - Honey mustard

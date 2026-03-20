@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Amber Lager
+  - Draft
+  - Craft
 ingredients:
   - Lager
   - Blackstrap molasses

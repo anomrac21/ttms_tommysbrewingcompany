@@ -10,6 +10,7 @@ prices:
 tags:
   - Wine
   - White
+  - Pinot Grigio
 ingredients:
   - Pinot Grigio
 cookingmethods: []

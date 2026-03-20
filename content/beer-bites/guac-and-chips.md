@@ -8,6 +8,7 @@ tags:
   - Appetizer
   - Vegetarian
   - Shareable
+  - Avocado
 ingredients:
   - Guacamole
   - Cilantro

@@ -1,5 +1,5 @@
 ---
-title: Fries / Fried Plantain / Black Beans
+title: Fries
 prices:
   - variable1: "-"
     variable2: "-"
@@ -7,14 +7,15 @@ prices:
 tags:
   - Side
   - Vegetarian
+  - Fries
+  - Potato
+  - Fried
 ingredients:
   - Potato
-  - Plantain
-  - Black beans
 cookingmethods:
   - Fried
 types: []
-weight: 3
+weight: 5
 ---
 
-Fries, fried plantain, or black beans.
+Classic fries.

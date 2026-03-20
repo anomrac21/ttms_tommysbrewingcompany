@@ -7,6 +7,8 @@ prices:
 tags:
   - Kids
   - Burger
+  - Beef
+  - Main
 ingredients:
   - Beef
   - Cheese

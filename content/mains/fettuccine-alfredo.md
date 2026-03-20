@@ -4,16 +4,22 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 120
-  - variable1: "Grilled Chicken"
-    variable2: "+48"
-    price: 168
-  - variable1: "Grilled Shrimp"
-    variable2: "+60"
-    price: 180
+side_categories:
+  - category_name: protein
+    display_name: Add protein
+    items:
+      - name: Grilled chicken
+        price: 48
+      - name: Grilled shrimp
+        price: 60
+    config:
+      minimum: 0
+      maximum: 1
 tags:
   - Pasta
   - Main
   - Vegetarian
+  - Cream
 ingredients:
   - Fettuccine
   - Alfredo sauce

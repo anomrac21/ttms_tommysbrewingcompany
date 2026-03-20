@@ -7,6 +7,9 @@ prices:
 tags:
   - Appetizer
   - Seafood
+  - Shrimp
+  - Fried
+  - Coconut
 ingredients:
   - Shrimp
   - Panko

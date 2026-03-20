@@ -7,6 +7,8 @@ prices:
 tags:
   - Dessert
   - Vegetarian
+  - Cake
+  - Cheese
 ingredients:
   - Cheesecake
 cookingmethods: []

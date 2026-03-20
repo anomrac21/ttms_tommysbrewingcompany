@@ -11,6 +11,8 @@ tags:
   - Beer
   - Lager
   - Flagship
+  - Draft
+  - Craft
 ingredients:
   - Lager
 cookingmethods: []

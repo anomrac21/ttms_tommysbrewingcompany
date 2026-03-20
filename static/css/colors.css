@@ -3,7 +3,7 @@
 
     /* Header */
     --header-color: #231f20ed;
-    --header-bg-color: #943e24ee;
+    --header-bg-color: #943e2400;
     --header-icon-color: #fefefe;
     --header-text-color: #fefefe;
     --header-text-shadow-color: #00000080;
@@ -28,15 +28,15 @@
     --menu-text-color: #231f20;
 
     /* Buttons – rust primary */
-    --button-color1: #943e24;
-    --button-color2: #b14a2e;
+    --button-color1: #f59420;
+    --button-color2: #b56c1f;
     --button-text-color1: #fefefe;
     --button-text-color2: #fefefe;
     --button-text-color3: #fff;
 
     /* Selected Button – golden-orange accent */
-    --selected-button-color1: #e8a85d;
-    --selected-button-color2: #db8a32;
+    --selected-button-color1: #f59420;
+    --selected-button-color2: #f1c236;
     --selected-button-color3: #fff;
     --selected-button-color4: #943e24ee;
     --selected-text-color1: #231f20;

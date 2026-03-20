@@ -10,6 +10,8 @@ prices:
 tags:
   - Cider
   - Beer
+  - Draft
+  - Craft
 ingredients:
   - Apple
   - Banana

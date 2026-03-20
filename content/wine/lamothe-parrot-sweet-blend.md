@@ -11,6 +11,7 @@ tags:
   - Wine
   - Red
   - Sweet
+  - Blend
 ingredients:
   - Wine
 cookingmethods: []

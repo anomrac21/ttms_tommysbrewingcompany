@@ -7,6 +7,7 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+  - Soft Drink
 ingredients:
   - Coke
   - Coke Zero

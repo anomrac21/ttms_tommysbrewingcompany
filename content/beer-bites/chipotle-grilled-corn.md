@@ -8,6 +8,8 @@ tags:
   - Appetizer
   - Vegetarian
   - Spicy
+  - Corn
+  - Grilled
 ingredients:
   - Corn
   - Tajin

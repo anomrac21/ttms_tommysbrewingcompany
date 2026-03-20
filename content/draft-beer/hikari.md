@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Rice Lager
+  - Draft
+  - Craft
 ingredients:
   - Rice
   - Lager

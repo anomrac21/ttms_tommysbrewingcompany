@@ -7,6 +7,8 @@ prices:
 tags:
   - Main
   - Lamb
+  - Ribs
+  - Grilled
 ingredients:
   - Lamb ribs
   - Chimichurri

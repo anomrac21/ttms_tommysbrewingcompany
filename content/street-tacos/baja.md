@@ -7,6 +7,9 @@ prices:
 tags:
   - Tacos
   - Seafood
+  - Main
+  - Fish
+  - Fried
 ingredients:
   - Fried fish
   - Pickled cabbage
@@ -17,6 +20,8 @@ cookingmethods:
 types:
   - Main
 weight: 5
+images:
+    - image: images/BAJA.webp
 ---
 
 Fried fish, pickled cabbage, chipotle sauce, crispy fried onions. Goes swimmingly with Pirogue Pilsner.

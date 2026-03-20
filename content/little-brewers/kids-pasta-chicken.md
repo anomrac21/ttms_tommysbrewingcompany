@@ -8,6 +8,7 @@ tags:
   - Kids
   - Pasta
   - Chicken
+  - Main
 ingredients:
   - Pasta
   - Chicken

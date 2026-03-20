@@ -7,10 +7,17 @@ prices:
   - variable1: "Vegetarian"
     variable2: "-"
     price: 105
+additions:
+  - name: Grilled Chicken
+    price: 48
+  - name: Grilled Shrimp
+    price: 60
 tags:
   - Bowl
   - Vegetarian Option
   - Taproom Favourite
+  - Main
+  - Rice
 ingredients:
   - Rice
   - Pickled cabbage

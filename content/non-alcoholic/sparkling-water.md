@@ -7,6 +7,7 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+  - Sparkling
 ingredients:
   - Sparkling water
 cookingmethods: []

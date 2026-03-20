@@ -8,6 +8,8 @@ tags:
   - Drinks
   - Non-Alcoholic
   - Refresher
+  - Fruit
+  - Citrus
 ingredients: []
 cookingmethods: []
 types:

@@ -7,6 +7,8 @@ prices:
 tags:
   - Appetizer
   - Shareable
+  - Pork
+  - Fried
 ingredients:
   - Pork belly
   - Asian dressing

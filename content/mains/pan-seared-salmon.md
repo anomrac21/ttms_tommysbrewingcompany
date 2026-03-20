@@ -7,6 +7,8 @@ prices:
 tags:
   - Main
   - Seafood
+  - Salmon
+  - Grilled
 ingredients:
   - Salmon
   - Avocado and tomato salsa

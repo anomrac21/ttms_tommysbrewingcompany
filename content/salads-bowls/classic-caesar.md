@@ -4,15 +4,16 @@ prices:
   - variable1: "-"
     variable2: "-"
     price: 89
-  - variable1: "Chicken"
-    variable2: "+48"
-    price: 137
-  - variable1: "Shrimp"
-    variable2: "+60"
-    price: 149
+additions:
+  - name: Grilled Chicken
+    price: 48
+  - name: Grilled Shrimp
+    price: 60
 tags:
   - Salad
   - Vegetarian
+  - Main
+  - Caesar
 ingredients:
   - Romaine lettuce
   - Croutons

@@ -10,6 +10,7 @@ prices:
 tags:
   - Wine
   - Red
+  - Cabernet
 ingredients:
   - Cabernet Sauvignon
 cookingmethods: []

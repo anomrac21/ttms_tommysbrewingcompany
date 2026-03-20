@@ -8,6 +8,9 @@ tags:
   - Appetizer
   - Shareable
   - Taproom Favourite
+  - Beef
+  - Nachos
+  - Spicy
 ingredients:
   - Tortilla chips
   - Chilli beef

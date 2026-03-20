@@ -8,6 +8,7 @@ tags:
   - Cocktail
   - Classic
   - Amaretto
+  - Citrus
 ingredients:
   - Amaretto
   - Lime

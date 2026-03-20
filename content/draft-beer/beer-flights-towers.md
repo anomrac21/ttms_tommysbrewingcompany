@@ -19,6 +19,8 @@ prices:
 tags:
   - Beer
   - Shareable
+  - Flight
+  - Draft
 ingredients: []
 cookingmethods: []
 types:

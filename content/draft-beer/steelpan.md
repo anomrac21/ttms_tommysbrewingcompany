@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Stout
+  - Draft
+  - Craft
 ingredients:
   - Stout
 cookingmethods: []

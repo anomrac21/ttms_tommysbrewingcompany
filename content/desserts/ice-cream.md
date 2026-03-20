@@ -10,6 +10,7 @@ prices:
 tags:
   - Dessert
   - Vegetarian
+  - Ice Cream
 ingredients:
   - Haagen Dazs
 cookingmethods: []

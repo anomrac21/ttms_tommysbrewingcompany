@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - IPA
+  - Draft
+  - Craft
 ingredients:
   - IPA
 cookingmethods: []

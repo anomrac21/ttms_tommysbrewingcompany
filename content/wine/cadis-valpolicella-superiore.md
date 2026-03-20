@@ -10,6 +10,7 @@ prices:
 tags:
   - Wine
   - Red
+  - Italian
 ingredients:
   - Valpolicella
 cookingmethods: []

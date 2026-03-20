@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Signature
   - Gin
+  - Sour
+  - Fruit
 ingredients:
   - Gin
   - Passionfruit

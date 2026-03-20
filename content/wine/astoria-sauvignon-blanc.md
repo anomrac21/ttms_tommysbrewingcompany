@@ -10,6 +10,7 @@ prices:
 tags:
   - Wine
   - White
+  - Sauvignon Blanc
 ingredients:
   - Sauvignon Blanc
 cookingmethods: []

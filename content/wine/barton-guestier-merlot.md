@@ -11,6 +11,7 @@ tags:
   - Wine
   - Red
   - Signature
+  - Merlot
 ingredients:
   - Merlot
 cookingmethods: []

@@ -7,6 +7,7 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+  - Coconut
 ingredients:
   - Coconut water
 cookingmethods: []

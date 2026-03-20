@@ -7,6 +7,8 @@ prices:
 tags:
   - Tacos
   - Seafood
+  - Main
+  - Grilled
 ingredients:
   - Grilled shrimp
   - Avocado

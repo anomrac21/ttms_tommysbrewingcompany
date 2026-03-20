@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Signature
   - Gin
+  - Fruit
+  - Berries
 ingredients:
   - Gin
   - Fresh strawberry

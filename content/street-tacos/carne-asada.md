@@ -7,6 +7,9 @@ prices:
 tags:
   - Tacos
   - Beef
+  - Main
+  - Steak
+  - Grilled
 ingredients:
   - Grilled steak
   - Pico de gallo

@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Pale Ale
+  - Draft
+  - Craft
 ingredients:
   - Pale ale
 cookingmethods: []

@@ -1,5 +1,5 @@
 ---
-title: House Salad / Grilled Vegetables / Potatoes
+title: Grilled Vegetables
 prices:
   - variable1: "-"
     variable2: "-"
@@ -7,14 +7,14 @@ prices:
 tags:
   - Side
   - Vegetarian
-ingredients:
-  - Mixed greens
   - Vegetables
-  - Potatoes
+  - Grilled
+ingredients:
+  - Vegetables
 cookingmethods:
   - Grilled
 types: []
-weight: 1
+weight: 2
 ---
 
-Choose house salad, grilled vegetables, or potatoes.
+Seasonal grilled vegetables.

@@ -7,10 +7,12 @@ prices:
 tags:
   - Side
   - Extras
+  - Condiment
+  - Sauce
 ingredients: []
 cookingmethods: []
 types: []
-weight: 5
+weight: 11
 ---
 
 Extra dipping sauce.

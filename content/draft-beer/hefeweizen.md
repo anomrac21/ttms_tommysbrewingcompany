@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Wheat Beer
+  - Draft
+  - Craft
 ingredients:
   - Wheat
 cookingmethods: []

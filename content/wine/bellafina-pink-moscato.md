@@ -11,6 +11,7 @@ tags:
   - Wine
   - Sparkling
   - Moscato
+  - Rosé
 ingredients:
   - Moscato
 cookingmethods: []

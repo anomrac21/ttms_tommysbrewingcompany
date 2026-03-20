@@ -8,6 +8,8 @@ tags:
   - Appetizer
   - Vegetarian
   - Shareable
+  - Cassava
+  - Fried
 ingredients:
   - Cassava
   - Parmesan
@@ -18,6 +20,8 @@ cookingmethods:
 types:
   - Starter
 weight: 4
+images:
+    - image: images/yuca_frita.webp
 ---
 
 Cassava fries, parmesan cheese, truffle dust, truffle aioli. Makes a crispy pair with Papa Yo! IPA.

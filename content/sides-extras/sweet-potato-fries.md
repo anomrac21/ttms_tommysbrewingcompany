@@ -7,12 +7,14 @@ prices:
 tags:
   - Side
   - Vegetarian
+  - Fries
+  - Fried
 ingredients:
   - Sweet potato
 cookingmethods:
   - Fried
 types: []
-weight: 2
+weight: 4
 ---
 
 Crispy sweet potato fries.

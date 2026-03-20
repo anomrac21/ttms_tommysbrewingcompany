@@ -7,6 +7,8 @@ prices:
 tags:
   - Wine
   - Port
+  - Fortified
+  - Red
 ingredients:
   - Port
 cookingmethods: []

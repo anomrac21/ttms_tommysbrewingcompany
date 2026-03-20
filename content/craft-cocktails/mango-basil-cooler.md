@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Signature
   - Vodka
+  - Fruit
+  - Herbs
 ingredients:
   - Vodka
   - Mango purée

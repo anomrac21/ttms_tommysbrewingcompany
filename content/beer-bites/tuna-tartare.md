@@ -8,6 +8,8 @@ tags:
   - Appetizer
   - Seafood
   - Shareable
+  - Tuna
+  - Raw
 ingredients:
   - Yellow-fin tuna
   - Asian dressing
@@ -19,6 +21,8 @@ cookingmethods: []
 types:
   - Starter
 weight: 8
+images:
+    - image: images/Tuna_Tarte_360x.webp
 ---
 
 Raw yellow-fin tuna, Asian dressing, cucumber avocado salsa, sriracha mayo, microgreens, tortilla chips. Goes swimmingly with Pirogue Pilsner.

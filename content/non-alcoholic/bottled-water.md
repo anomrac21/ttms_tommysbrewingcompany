@@ -7,6 +7,7 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+  - Water
 ingredients:
   - Water
 cookingmethods: []

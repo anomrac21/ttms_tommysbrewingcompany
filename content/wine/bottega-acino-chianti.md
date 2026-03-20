@@ -10,6 +10,8 @@ prices:
 tags:
   - Wine
   - Red
+  - Italian
+  - Chianti
 ingredients:
   - Chianti
 cookingmethods: []

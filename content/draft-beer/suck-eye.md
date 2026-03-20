@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Blonde Ale
+  - Draft
+  - Craft
 ingredients:
   - Blonde ale
 cookingmethods: []

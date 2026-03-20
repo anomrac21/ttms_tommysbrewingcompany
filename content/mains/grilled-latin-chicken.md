@@ -7,6 +7,7 @@ prices:
 tags:
   - Main
   - Chicken
+  - Latin
 ingredients:
   - Chicken
   - Rice

@@ -7,6 +7,8 @@ prices:
 tags:
   - Dessert
   - Vegetarian
+  - Chocolate
+  - Cake
 ingredients:
   - Chocolate
   - Cake

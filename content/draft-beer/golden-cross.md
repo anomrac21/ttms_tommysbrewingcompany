@@ -10,6 +10,8 @@ prices:
 tags:
   - Beer
   - Belgian Ale
+  - Draft
+  - Craft
 ingredients:
   - Golden ale
 cookingmethods: []

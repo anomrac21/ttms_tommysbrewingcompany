@@ -1,5 +1,5 @@
 ---
-title: Garlic Bread / Rice / Apple Coleslaw
+title: Rice
 prices:
   - variable1: "-"
     variable2: "-"
@@ -7,14 +7,12 @@ prices:
 tags:
   - Side
   - Vegetarian
-ingredients:
-  - Bread
   - Rice
-  - Cabbage
-  - Apple
+ingredients:
+  - Rice
 cookingmethods: []
 types: []
-weight: 4
+weight: 9
 ---
 
-Garlic bread, rice, or apple coleslaw.
+Steamed rice.

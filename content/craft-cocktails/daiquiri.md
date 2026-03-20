@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Classic
   - Rum
+  - Citrus
+  - Sweet
 ingredients:
   - Rum
   - Lime

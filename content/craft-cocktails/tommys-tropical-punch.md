@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Signature
   - Rum
+  - Fruit
+  - Tropical
 ingredients:
   - Rum blend
   - Citrus

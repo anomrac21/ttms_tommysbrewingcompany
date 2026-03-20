@@ -7,6 +7,9 @@ prices:
 tags:
   - Seafood
   - Main
+  - Fish
+  - Fried
+  - Fries
 ingredients:
   - Fish
   - Steak fries

@@ -8,6 +8,7 @@ tags:
   - Cocktail
   - Classic
   - Tequila
+  - Citrus
 ingredients:
   - Tequila
   - Lime

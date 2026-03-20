@@ -7,6 +7,8 @@ prices:
 tags:
   - Appetizer
   - Shareable
+  - Pork
+  - Tostada
 ingredients:
   - Corn tortilla
   - BBQ pulled pork

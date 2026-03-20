@@ -8,6 +8,7 @@ tags:
   - Cocktail
   - Classic
   - Vodka
+  - Citrus
 ingredients:
   - Vodka
   - Lime

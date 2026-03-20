@@ -7,6 +7,8 @@ prices:
 tags:
   - Drinks
   - Non-Alcoholic
+  - Dairy
+  - Sweet
 ingredients: []
 cookingmethods: []
 types:

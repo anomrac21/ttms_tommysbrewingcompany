@@ -8,6 +8,8 @@ tags:
   - Main
   - Pork
   - Taproom Favourite
+  - Ribs
+  - BBQ
 ingredients:
   - Pork ribs
   - BBQ sauce

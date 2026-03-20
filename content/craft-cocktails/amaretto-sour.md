@@ -8,6 +8,8 @@ tags:
   - Cocktail
   - Classic
   - House Favourite
+  - Sour
+  - Citrus
 ingredients:
   - Amaretto
   - Citrus

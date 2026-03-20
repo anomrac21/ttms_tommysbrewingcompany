@@ -7,6 +7,8 @@ prices:
 tags:
   - Kids
   - Chicken
+  - Fries
+  - Main
 ingredients:
   - Chicken
   - Fries

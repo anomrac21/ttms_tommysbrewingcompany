@@ -7,6 +7,8 @@ prices:
 tags:
   - Cocktail
   - Vodka
+  - Martini
+  - Fruit
 ingredients:
   - Vodka
   - Lychee syrup
