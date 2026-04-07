@@ -89,7 +89,7 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
     phone = 18682286669
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 26
     notifications = true
 
 [params.social]
