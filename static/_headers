@@ -12,3 +12,9 @@
   Access-Control-Allow-Origin: *.ttmenus.com
   Access-Control-Allow-Methods: GET
   Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+
+# Branding assets (hero WebGL logo chips, map pins, etc.)
+/branding/*
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
+  Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
