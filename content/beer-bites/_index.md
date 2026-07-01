@@ -1,9 +1,9 @@
 ---
 title: Beer Bites
 weight: 3
-icon: https://ct.ttmenus.com/icons/food/icon-nachos.webp
+icon: images/Beer_bites_cover_1500x.webp
 images:
-    top: images/Beer_bites_cover_1500x.webp
+    primary: images/Beer_bites_cover_1500x.webp
 ---
 
 Designed to share and enjoy with tasty craft beer.

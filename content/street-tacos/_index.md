@@ -1,9 +1,9 @@
 ---
 title: Street Tacos
 weight: 7
-icon: https://ct.ttmenus.com/icons/food/icon-taco.webp
+icon: images/BAJA.webp
 images:
-    top: images/BAJA.webp
+    primary: images/BAJA.webp
 ---
 
 Each order contains 3 tacos.

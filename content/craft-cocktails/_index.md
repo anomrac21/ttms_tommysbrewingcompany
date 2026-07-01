@@ -1,7 +1,9 @@
 ---
 title: Craft Cocktails
 weight: 12
-icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
+icon: images/craft-cocktails.webp
+images:
+    primary: images/craft-cocktails.webp
 ---
 
 House favourites and classics. More spirits available—ask your server for current options.

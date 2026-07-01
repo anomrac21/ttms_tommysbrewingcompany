@@ -1,9 +1,9 @@
 ---
 title: Salads & Bowls
 weight: 8
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/SALAD.webp
 images:
-    top: images/SALAD.webp
+    primary: images/SALAD.webp
 ---
 
 With freshly sourced produce from local farmers.

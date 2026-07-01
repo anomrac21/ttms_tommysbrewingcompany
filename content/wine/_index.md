@@ -1,7 +1,9 @@
 ---
 title: Wine
 weight: 11
-icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
+icon: images/wine.webp
+images:
+    primary: images/wine.webp
 ---
 
 Red, white, and sparkling. Glass and bottle prices.

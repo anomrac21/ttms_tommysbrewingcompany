@@ -1,9 +1,9 @@
 ---
 title: Desserts
 weight: 9
-icon: https://ct.ttmenus.com/icons/food/icon-dessert.webp
+icon: images/brownie_720x.webp
 images:
-    top: images/brownie_720x.webp
+    primary: images/brownie_720x.webp
 ---
 
 Sweet finishes to your meal.
