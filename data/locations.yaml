@@ -1,5 +1,6 @@
 locations:
-  - address: "Fiesta Plaza, Movie Towne"
+  - slug: port-of-spain
+    address: "Fiesta Plaza, Movie Towne"
     city: "Port of Spain"
     island: "Trinidad"
     latlon: [10.65784327160846, -61.53293604424368]
@@ -50,7 +51,8 @@ locations:
         - type: "Close"
           time: "23:00"
 
-  - address: "East Gates Mall"
+  - slug: trincity
+    address: "East Gates Mall"
     city: "Trincity"
     island: "Trinidad"
     latlon: [10.633397, -61.346776]
@@ -100,7 +102,8 @@ locations:
         - type: "Close"
           time: "23:00"
 
-  - address: "Brentwood Mall, 501426, Brentwood Avenue North"
+  - slug: chaguanas
+    address: "Brentwood Mall, 501426, Brentwood Avenue North"
     city: "Chaguanas"
     island: "Trinidad"
     latlon: [10.504647927225005, -61.406320663496344]

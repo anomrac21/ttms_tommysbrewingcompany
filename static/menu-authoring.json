@@ -1,0 +1,637 @@
+{
+  "multi_location_menus": true,
+  "shared": [
+    {
+      "section": "beer-bites",
+      "file": "brewhouse-wings",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/brewhouse-wings.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "chipotle-grilled-corn",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/chipotle-grilled-corn.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "coconut-crusted-shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/coconut-crusted-shrimp.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "crispy-pork-belly-skewer",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/crispy-pork-belly-skewer.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "guac-and-chips",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/guac-and-chips.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "sloppy-pork-tostadas",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/sloppy-pork-tostadas.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "sriracha-popcorn-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/sriracha-popcorn-chicken.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "tommys-signature-nachos",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/tommys-signature-nachos.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "tuna-tartare",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/tuna-tartare.md"
+    },
+    {
+      "section": "beer-bites",
+      "file": "yuca-frita",
+      "authoring": "shared",
+      "content_path": "content/_shared/beer-bites/yuca-frita.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "fishermans-sandwich",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/fishermans-sandwich.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "greek-lamb-burger",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/greek-lamb-burger.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "impossible-burger",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/impossible-burger.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "nashville-chicken-sandwich",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/nashville-chicken-sandwich.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "original-cheeseburger",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/original-cheeseburger.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "the-duke",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/the-duke.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "the-paddy",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/the-paddy.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "the-schnitty-sandwich",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/the-schnitty-sandwich.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "tommys-signature-burger",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/tommys-signature-burger.md"
+    },
+    {
+      "section": "burgers-and-sandwiches",
+      "file": "uncle-sam",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers-and-sandwiches/uncle-sam.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "amaretto-sour",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/amaretto-sour.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "beach-lime",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/beach-lime.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "cocoa-old-fashioned",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/cocoa-old-fashioned.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "daiquiri",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/daiquiri.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "gin-passionfruit-sour",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/gin-passionfruit-sour.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "lychee-martini",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/lychee-martini.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "mango-basil-cooler",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/mango-basil-cooler.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "margarita",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/margarita.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "strawberry-fields",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/strawberry-fields.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "sweet-eye",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/sweet-eye.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "tommys-gin-and-tonic",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/tommys-gin-and-tonic.md"
+    },
+    {
+      "section": "craft-cocktails",
+      "file": "tommys-tropical-punch",
+      "authoring": "shared",
+      "content_path": "content/_shared/craft-cocktails/tommys-tropical-punch.md"
+    },
+    {
+      "section": "desserts",
+      "file": "cheesecake",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/cheesecake.md"
+    },
+    {
+      "section": "desserts",
+      "file": "chocolate-cake",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/chocolate-cake.md"
+    },
+    {
+      "section": "desserts",
+      "file": "chummy-churros",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/chummy-churros.md"
+    },
+    {
+      "section": "desserts",
+      "file": "ice-cream",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/ice-cream.md"
+    },
+    {
+      "section": "desserts",
+      "file": "ringos-brownie-escape",
+      "authoring": "shared",
+      "content_path": "content/_shared/desserts/ringos-brownie-escape.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "beer-flights-towers",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/beer-flights-towers.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "brentwood-reserve",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/brentwood-reserve.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "devils-woodyard",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/devils-woodyard.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "golden-cross",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/golden-cross.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "hazy-pale-ale",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/hazy-pale-ale.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "hefeweizen",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/hefeweizen.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "hikari",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/hikari.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "papa-yo",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/papa-yo.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "pirogue",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/pirogue.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "small-axe-apple",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/small-axe-apple.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "small-axe-big-punch",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/small-axe-big-punch.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "st-benedict",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/st-benedict.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "steelpan",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/steelpan.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "suck-eye",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/suck-eye.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "sugarcane-lager",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/sugarcane-lager.md"
+    },
+    {
+      "section": "draft-beer",
+      "file": "tommys-lager",
+      "authoring": "shared",
+      "content_path": "content/_shared/draft-beer/tommys-lager.md"
+    },
+    {
+      "section": "little-brewers",
+      "file": "cheeseburger-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/little-brewers/cheeseburger-fries.md"
+    },
+    {
+      "section": "little-brewers",
+      "file": "chicken-fingers-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/little-brewers/chicken-fingers-fries.md"
+    },
+    {
+      "section": "little-brewers",
+      "file": "kids-pasta-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/little-brewers/kids-pasta-chicken.md"
+    },
+    {
+      "section": "mains",
+      "file": "bbq-pork-ribs",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/bbq-pork-ribs.md"
+    },
+    {
+      "section": "mains",
+      "file": "chimichurri-lamb-ribs",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/chimichurri-lamb-ribs.md"
+    },
+    {
+      "section": "mains",
+      "file": "crafty-chicken-tenders",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/crafty-chicken-tenders.md"
+    },
+    {
+      "section": "mains",
+      "file": "fettuccine-alfredo",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/fettuccine-alfredo.md"
+    },
+    {
+      "section": "mains",
+      "file": "grilled-latin-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/grilled-latin-chicken.md"
+    },
+    {
+      "section": "mains",
+      "file": "jps-fish-and-chips",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/jps-fish-and-chips.md"
+    },
+    {
+      "section": "mains",
+      "file": "pan-seared-salmon",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/pan-seared-salmon.md"
+    },
+    {
+      "section": "mains",
+      "file": "steak-frites",
+      "authoring": "shared",
+      "content_path": "content/_shared/mains/steak-frites.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "bottled-water",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/bottled-water.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "coconut-water",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/coconut-water.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "home-made-bentley",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/home-made-bentley.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "juices",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/juices.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "milkshakes",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/milkshakes.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "mocktails",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/mocktails.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "sodas",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/sodas.md"
+    },
+    {
+      "section": "non-alcoholic",
+      "file": "sparkling-water",
+      "authoring": "shared",
+      "content_path": "content/_shared/non-alcoholic/sparkling-water.md"
+    },
+    {
+      "section": "salads-bowls",
+      "file": "bazodee-bowl",
+      "authoring": "shared",
+      "content_path": "content/_shared/salads-bowls/bazodee-bowl.md"
+    },
+    {
+      "section": "salads-bowls",
+      "file": "buffalo-chicken-salad",
+      "authoring": "shared",
+      "content_path": "content/_shared/salads-bowls/buffalo-chicken-salad.md"
+    },
+    {
+      "section": "salads-bowls",
+      "file": "classic-caesar",
+      "authoring": "shared",
+      "content_path": "content/_shared/salads-bowls/classic-caesar.md"
+    },
+    {
+      "section": "salads-bowls",
+      "file": "mexican-salad",
+      "authoring": "shared",
+      "content_path": "content/_shared/salads-bowls/mexican-salad.md"
+    },
+    {
+      "section": "salads-bowls",
+      "file": "seafood-poke-bowl",
+      "authoring": "shared",
+      "content_path": "content/_shared/salads-bowls/seafood-poke-bowl.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "apple-coleslaw",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/apple-coleslaw.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "black-beans-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/black-beans-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "extra-sauce",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/extra-sauce.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "fried-plantain",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/fried-plantain.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "garlic-bread-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/garlic-bread-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "grilled-vegetables-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/grilled-vegetables-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "house-salad-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/house-salad-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "potatoes-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/potatoes-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "rice-side",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/rice-side.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "side-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/side-fries.md"
+    },
+    {
+      "section": "sides-extras",
+      "file": "sweet-potato-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/sides-extras/sweet-potato-fries.md"
+    },
+    {
+      "section": "street-tacos",
+      "file": "baja",
+      "authoring": "shared",
+      "content_path": "content/_shared/street-tacos/baja.md"
+    },
+    {
+      "section": "street-tacos",
+      "file": "birria",
+      "authoring": "shared",
+      "content_path": "content/_shared/street-tacos/birria.md"
+    },
+    {
+      "section": "street-tacos",
+      "file": "carne-asada",
+      "authoring": "shared",
+      "content_path": "content/_shared/street-tacos/carne-asada.md"
+    },
+    {
+      "section": "street-tacos",
+      "file": "pollo-asada",
+      "authoring": "shared",
+      "content_path": "content/_shared/street-tacos/pollo-asada.md"
+    },
+    {
+      "section": "street-tacos",
+      "file": "shrimp",
+      "authoring": "shared",
+      "content_path": "content/_shared/street-tacos/shrimp.md"
+    },
+    {
+      "section": "wine",
+      "file": "astoria-cabernet-sauvignon",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/astoria-cabernet-sauvignon.md"
+    },
+    {
+      "section": "wine",
+      "file": "astoria-sauvignon-blanc",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/astoria-sauvignon-blanc.md"
+    },
+    {
+      "section": "wine",
+      "file": "barton-guestier-merlot",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/barton-guestier-merlot.md"
+    },
+    {
+      "section": "wine",
+      "file": "bellafina-pink-moscato",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/bellafina-pink-moscato.md"
+    },
+    {
+      "section": "wine",
+      "file": "bottega-acino-chianti",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/bottega-acino-chianti.md"
+    },
+    {
+      "section": "wine",
+      "file": "bottega-mini",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/bottega-mini.md"
+    },
+    {
+      "section": "wine",
+      "file": "cadis-pinot-grigio-poesie",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/cadis-pinot-grigio-poesie.md"
+    },
+    {
+      "section": "wine",
+      "file": "cadis-valpolicella-superiore",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/cadis-valpolicella-superiore.md"
+    },
+    {
+      "section": "wine",
+      "file": "dows-fine-ruby-port",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/dows-fine-ruby-port.md"
+    },
+    {
+      "section": "wine",
+      "file": "fantini-chardonnay",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/fantini-chardonnay.md"
+    },
+    {
+      "section": "wine",
+      "file": "lamothe-parrot-sweet-blend",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/lamothe-parrot-sweet-blend.md"
+    },
+    {
+      "section": "wine",
+      "file": "val-doca-millesimato-blu",
+      "authoring": "shared",
+      "content_path": "content/_shared/wine/val-doca-millesimato-blu.md"
+    }
+  ],
+  "location": [],
+  "generated_at": "2026-10-14T21:49:08.166191+00:00"
+}

@@ -1,56 +1,60 @@
+/**
+ * The old page was cream with dark type. The dish sheet uses golden orange
+ * and burnt rust, so ink is the light color already in the file.
+ * Cream stays as the glow only.
+ */
 :root {
-    /* Menu-inspired palette: cream background, burnt rust, golden-orange accent */
+  --header-bg-color: #943e24;
+  --header-text-color: #fefefe;
+  --header-icon-color: #fefefe;
+  --header-border-color: #e8a85d;
 
-    /* Header */
-    --header-color: #231f20ed;
-    --header-bg-color: #943e2400;
-    --header-icon-color: #fefefe;
-    --header-text-color: #fefefe;
-    --header-text-shadow-color: #00000080;
-    --header-bordercolor-1: #e8a85d88;
-    --header-bordercolor-2: #e8a85d88;
-    --header-bg-image: none;
+  --hero-bg-color-1: #943e24;
+  --hero-bg-color-2: #943e24;
+  --hero-text-color: #fefefe;
+  --hero-features-icon-color: #fefefe;
+  --hero-features-icon-bg-color: #943e24;
+  --hero-border-color: #e8a85d;
 
-    /* Hero – warm cream with rust accent */
-    --hero-bg-color: #fcf9f3;
-    --hero-bg-image-fg-color: #e8a85d;
-    --hero-text-color: #231f20;
-    --contact-info-bg: #943e24;
+  --main-bg: #943e24;
+  --main-text-color: #fefefe;
 
-    /* Main – cream background, dark text */
-    --main-bg: #fcf9f3;
-    --main-bg-color: #fcf9f3;
-    --main-text-color: #231f20;
+  --menu-bg-color-1: #f59420;
+  --menu-bg-color-2: #b56c1f;
+  --menu-text-color: #fefefe;
+  --favorite-color: #f59420;
 
-    /* Menu – cream with rust dividers */
-    --menu-bg-color-1: #fdfbf7;
-    --menu-bg-color-2: #943e2455;
-    --menu-text-color: #231f20;
+  --button-color1: #f59420;
+  --button-color2: #b56c1f;
+  --button-text-color1: #fefefe;
+  --button-text-color2: #fefefe;
+  --selected-button-color1: #f59420;
+  --selected-button-color2: #f1c236;
+  --selected-button-color3: #ffffff;
+  --selected-text-color1: #231f20;
+  --selected-text-color3: #b14a2e;
+  --select-color: #b14a2e;
+  --accent-color: #f59420;
+  --accent-text-color: #fefefe;
+  --accent-glow-color: #fcf9f3;
 
-    /* Buttons – rust primary */
-    --button-color1: #f59420;
-    --button-color2: #b56c1f;
-    --button-text-color1: #fefefe;
-    --button-text-color2: #fefefe;
-    --button-text-color3: #fff;
+  --footer-bg-color: #943e24;
+  --footer-text-color: #fefefe;
+  --footer-icon-color: #fefefe;
+  --modal-bg-container-color: #231f2055;
 
-    /* Selected Button – golden-orange accent */
-    --selected-button-color1: #f59420;
-    --selected-button-color2: #f1c236;
-    --selected-button-color3: #fff;
-    --selected-button-color4: #943e24ee;
-    --selected-text-color1: #231f20;
-    --selected-text-color2: #fff;
-    --selected-text-color3: #b14a2e;
-
-    /* Footer */
-    --footer-bg-color: #943e24;
-    --footer-text-color: #fefefe;
-
-    /* Modal */
-    --modal-bg-container-color: #231f2055;
-
-    /* Icon accents (vegetarian, spicy) */
-    --icon-green: #3c8e44;
-    --icon-orange: #e88224;
+  --header-color: #231f20;
+  --header-text-shadow-color: #00000080;
+  --header-bordercolor-1: #e8a85d;
+  --header-bordercolor-2: #e8a85d;
+  --header-bg-image: none;
+  --hero-bg-color: #943e24;
+  --hero-bg-image-fg-color: #e8a85d;
+  --contact-info-bg: #943e24;
+  --main-bg-color: #943e24;
+  --button-text-color3: #ffffff;
+  --selected-button-color4: #943e24;
+  --selected-text-color2: #ffffff;
+  --icon-green: #3c8e44;
+  --icon-orange: #e88224;
 }

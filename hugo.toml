@@ -1,16 +1,20 @@
 theme = '_menus_ttms'
 languageCode = 'en-tt'
+title = "Tommy's Brewing Company"
+baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
+timeout = '600s'
 
-# Mount theme's content (dashboard, locations, api, etc.); keep project content (defining mounts replaces default for that target)
+# Mount home, generated menu tree, and theme pages (dashboard, locations, api).
 [module]
   [[module.mounts]]
-    source = "content"
+    source = "content/_index.md"
+    target = "content/_index.md"
+  [[module.mounts]]
+    source = "content/.generated"
     target = "content"
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-title = "Tommy's Brewing Company"
-baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
 
 [markup]
 
@@ -36,6 +40,7 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
   page = ["HTML", "JSON"]
 
 [params]
+  description = "Tommy's Brewing Company — restaurant and bar in Port of Spain, Trincity, and Chaguanas."
   authServiceUrl = "https://auth.ttmenus.com"
   adsServiceUrl = "https://ads.ttmenus.com"
   notifyServiceUrl = "https://notify.ttmenus.com"
@@ -49,6 +54,10 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
     enabled = true
     apiUrl = "https://auth.ttmenus.com/api/v1"
 
+[params.reviews]
+    enabled = true
+    apiUrl = "https://reviews.ttmenus.com/api/v1"
+
 [params.contentManagement]
     enabled = true
     apiUrl = "https://cms.ttmenus.com/api"
@@ -57,6 +66,48 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
     # For local development, use:
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
+
+[params.content]
+  enabled = true
+  apiUrl = "https://cms.ttmenus.com/api"
+  clientId = "ttms_tommysbrewingcompany"
+
+[params.menu]
+  multiLocationMenus = true
+
+[params.thumbor]
+  enabled = true
+  url = "https://thumbor.ttmenus.com"
+  sourceBaseUrl = "https://tommysbrewingcompany.ttmenus.com"
+  menuImagesUseThumbor = true
+
+[params.mapService]
+  url = "https://maps.ttmenus.com"
+  dataSource = "trinidad-tobago"
+
+[params.osrm]
+  url = "https://osrm.ttmenus.com"
+
+[params.orderService]
+  apiUrl = "https://orders.ttmenus.com/api/v1"
+  enabled = true
+  kitchenPrint = false
+  paperWidthMm = 80
+  printerName = ""
+
+[params.deliveryService]
+  apiUrl = "https://delivery.ttmenus.com/api/v1"
+  currency = "TTD"
+  deliveryFee = 0
+  enabled = false
+  wsUrl = "wss://delivery.ttmenus.com/api/v1"
+
+[params.paymentService]
+  enabled = false
+  apiUrl = "https://pay.tommysbrewingcompany.ttmenus.com"
+  clientId = "ttms_tommysbrewingcompany"
+  currency = "TTD"
+  provider = "wipay"
 
 # Menu Image Service - user-submitted images with admin approval
 [params.menuImageService]
@@ -74,9 +125,26 @@ baseURL = 'https://tommysbrewingcompany.ttmenus.com/'
   clientDomain = "tommysbrewingcompany.ttmenus.com"
 
 [params.features]
+    loyverse_connect = false
     payments = false
     delivery = false
     notifications = true
+    analytics_access = false
+    featured = false
+    exclusive_ads = false
+    no_competitor_ads = false
+    unmetered_traffic = false
+
+[params.posintegration]
+  enabled = false
+  provider = ""
+  api_url = ""
+  oauth_url = "https://loyverse-oauth.ttmenus.com"
+  store_id = ""
+  sync_menu = false
+  auto_process_orders = false
+  fallback_to_whatsapp = true
+  loyverse_receipt_mode = "on_payment"
 
 [params.orderingsystem]
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
